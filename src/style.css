@@ -1,0 +1,13 @@
+ #css {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    
+  }
+   
+  .para {
+      color: chocolate;
+  }
